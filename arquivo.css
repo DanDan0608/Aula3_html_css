@@ -1,0 +1,40 @@
+.todas_divs{
+
+    width: 100%;
+
+}
+
+.Primeira_div{
+
+    height: 50px;
+
+    background-color: aqua;
+
+}
+
+.Segunda_div{
+
+    height: 400px;
+
+    background-color: blueviolet;
+
+}
+
+.Terceira_div{
+
+    height: 50px;
+
+    background-color: aqua;
+
+}
+
+.Quarta_div{
+
+    height: 50px;
+
+    background-color: red;
+
+}
+
+
+
